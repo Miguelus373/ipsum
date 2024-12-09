@@ -40,6 +40,8 @@ nav img {
 }
 
 .card {
+  text-decoration: none;
+  color: black;
   flex-basis: 33%;
   display: flex;
   justify-content: center;
